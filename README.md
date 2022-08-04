@@ -1,5 +1,4 @@
-![Frame 3](https://user-images.githubusercontent.com/93822098/156660368-07e930d6-a1ea-41f6-bed3-2c12b69e3bb9.png#gh-light-mode-only)
-![dark](https://user-images.githubusercontent.com/93822098/156660635-ea09bcf4-8c11-4661-ab1c-cb8469ebcf9a.png#gh-dark-mode-only)
+![Frame 17](https://user-images.githubusercontent.com/93822098/182948677-69b2b947-6ef7-4aa3-8569-1bcdb82c1415.png)
 
 ## How to reach me
 
