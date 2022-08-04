@@ -1,4 +1,5 @@
-![Frame 17](https://user-images.githubusercontent.com/93822098/182948677-69b2b947-6ef7-4aa3-8569-1bcdb82c1415.png)
+![JS Yellow](https://user-images.githubusercontent.com/93822098/182948677-69b2b947-6ef7-4aa3-8569-1bcdb82c1415.png#gh-dark-mode-only)
+![JS Black](https://user-images.githubusercontent.com/93822098/182954546-1decbbd2-0954-420c-874b-05b6b9d9709f.png#gh-light-mode-only)
 
 ## How to reach me
 
@@ -13,4 +14,5 @@
 ## Statistics
 
 [![Daniil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniil8k&show_icons=true&hide=contribs&bg_color=ffffff00&text_color=58728f&border_color=21262d)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Daniil's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil8k&layout=compact&hide=vue&langs_count=6&bg_color=ffffff00&text_color=58728f&border_color=21262d)](https://github.com/anuraghazra/github-readme-stats)
