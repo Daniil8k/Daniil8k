@@ -6,4 +6,6 @@
 
 <a href="https://stackoverflow.com/users/18267362/daniil8k"><img src="https://stackoverflow.com/users/flair/18267362.png" width="208" height="58" alt="profile for Daniil8k at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Daniil8k at Stack Overflow"></a>
 
+[![NPM link](https://img.shields.io/badge/Daniil8k%20-npm-orange?style=flat&logo=npm)](https://www.npmjs.com/~daniil8k)
+
 📫 How to reach me dkob2852@gmail.com
