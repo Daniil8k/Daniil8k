@@ -1,4 +1,5 @@
-![GitHub](https://user-images.githubusercontent.com/93822098/183157551-92e8ea14-691d-451f-aa08-23b659706b83.png)
+![GitHub](https://user-images.githubusercontent.com/93822098/183157551-92e8ea14-691d-451f-aa08-23b659706b83.png#gh-light-mode-only)
+![GitHub_dark](https://user-images.githubusercontent.com/93822098/183158496-b8026402-01e9-4712-8526-89fef99039b5.png#gh-dark-mode-only)
 
 ## How to reach me
 
