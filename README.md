@@ -11,6 +11,6 @@
 
 ## Statistics
 
-[![Daniil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniil8k&show_icons=true&hide=contribs&bg_color=ffffff00&text_color=58728f&border_color=21262d)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniil8k&show_icons=true&hide=contribs&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Daniil's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil8k&layout=compact&hide=vue&langs_count=6&bg_color=ffffff00&text_color=58728f&border_color=21262d)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniil's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil8k&layout=compact&hide=vue&langs_count=6&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
