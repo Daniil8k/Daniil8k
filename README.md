@@ -1,4 +1,4 @@
-![GitHub](https://user-images.githubusercontent.com/93822098/183157213-9d12bb4e-8beb-4ae1-b277-24d5120c89d8.png)
+![GitHub](https://user-images.githubusercontent.com/93822098/183157551-92e8ea14-691d-451f-aa08-23b659706b83.png)
 
 ## How to reach me
 
