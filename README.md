@@ -1,5 +1,4 @@
-![JS Yellow](https://user-images.githubusercontent.com/93822098/182948677-69b2b947-6ef7-4aa3-8569-1bcdb82c1415.png#gh-dark-mode-only)
-![JS Black](https://user-images.githubusercontent.com/93822098/182954546-1decbbd2-0954-420c-874b-05b6b9d9709f.png#gh-light-mode-only)
+![GitHub](https://user-images.githubusercontent.com/93822098/183157213-9d12bb4e-8beb-4ae1-b277-24d5120c89d8.png)
 
 ## How to reach me
 
