@@ -1,5 +1,5 @@
-![GitHub](https://user-images.githubusercontent.com/93822098/183157551-92e8ea14-691d-451f-aa08-23b659706b83.png#gh-light-mode-only)
-![GitHub_dark](https://user-images.githubusercontent.com/93822098/183158496-b8026402-01e9-4712-8526-89fef99039b5.png#gh-dark-mode-only)
+![GitHub1](https://user-images.githubusercontent.com/93822098/183747094-aaec7afb-a7f3-4f4e-a621-d2d3e902100c.png#gh-light-mode-only)
+![GitHub1_dark](https://user-images.githubusercontent.com/93822098/183747121-3555e0ac-6dac-45d5-a7fc-c94fd508d1a9.png#gh-dark-mode-only)
 
 ## How to reach me
 
