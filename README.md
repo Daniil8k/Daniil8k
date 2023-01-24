@@ -8,8 +8,3 @@
 [![Stackoverflow](https://img.shields.io/static/v1?label=Daniil8k&message=stackoverflow&color=orange&style=flat&logo=stackoverflow)](https://stackoverflow.com/users/18267362/daniil8k)
 
 [![NPM link](https://img.shields.io/static/v1?label=Daniil8k&message=npm&color=red&style=flat&logo=npm)](https://www.npmjs.com/~daniil8k)
-
-## Statistics
-
-https://user-images.githubusercontent.com/93822098/212479302-d4ebacae-909a-45f2-b20b-f4a9518755f3.mp4
-
