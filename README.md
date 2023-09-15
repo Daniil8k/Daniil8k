@@ -3,8 +3,6 @@
 
 ## How to reach me
 
-📬 dkob2852@gmail.com
-
 [![Stackoverflow](https://img.shields.io/static/v1?label=Daniil8k&message=stackoverflow&color=orange&style=flat&logo=stackoverflow)](https://stackoverflow.com/users/18267362/daniil8k)
 
 [![NPM link](https://img.shields.io/static/v1?label=Daniil8k&message=npm&color=red&style=flat&logo=npm)](https://www.npmjs.com/~daniil8k)
